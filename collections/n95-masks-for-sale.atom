@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://greensupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://greensupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://greensupply.com/collections/n95-masks-for-sale.atom"/>
+  <title>Greensupply.com</title>
+  <updated>2021-02-15T12:46:36-07:00</updated>
+  <author>
+    <name>Greensupply.com</name>
+  </author>
+  <entry>
+    <id>https://greensupply.com/products/6057914007712</id>
+    <published>2021-02-15T12:46:36-07:00</published>
+    <updated>2021-02-15T12:46:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/honeywell-niosh-folded-n95-mask-50-pack"/>
+    <title>Honeywell NIOSH Folded N95 Mask - 50 Pack</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/HoneywellN95.jpg?v=1613418395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td><strong> Number of Masks</strong></td>
+<td><strong>Cost</strong></td>
+<td><strong>Cost/Mask</strong></td>
+</tr>
+<tr>
+<td>50</td>
+<td>$124.95</td>
+<td>$2.50</td>
+</tr>
+<tr>
+<td>BULK<br>
+</td>
+<td>WHOLESALE</td>
+<td>
+<meta charset="utf-8"> <span>888-373-0001</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Manufactured by Honeywell, these NIOSH approved folded N95 masks feature around the head straps and an adjustable nose clip. Sold in boxes of 50, these masks are designed to filter in excess of 95%.</p>
+<p><strong>Product Details: </strong></p>
+<ul>
+<li>Filters &gt;95%</li>
+<li>Comfortable folded design</li>
+<li>Around the head straps</li>
+<li>Adjustable nose clip</li>
+</ul>
+<p><strong>Product Information: </strong></p>
+<ul>
+<li>NIOSH Approved<br>
+</li>
+<li>
+<meta charset="utf-8">Box of 50</li>
+<li>Manufacturer: Honeywell</li>
+<li>Model: H910 Plus</li>
+<li>Made in China</li>
+</ul>
+<p><strong></strong><meta charset="utf-8"><strong>IMPORTANT NOTES</strong><b>:<span> </span></b></p>
+<ul>
+<li>All tests, certificates and product information are provided by the manufacturer and have not been independently verified by Green Supply.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>filtration</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>n95</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/6057914007712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>HONEYWELL-N95-H910-PLUS</s:sku>
+      <s:grams>448</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5858443034784</id>
+    <published>2021-01-25T15:01:50-07:00</published>
+    <updated>2021-01-25T15:01:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/wholesale-n95-face-mask-made-in-the-usa"/>
+    <title>Wholesale N95 Face Mask - Made in the USA</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>Shatkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/N95-USA-Mask-2_f3e0d02a-c4fb-4b3f-8286-983682c9f7f1.png?v=1605737901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shatkin<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            2549.95 - 19995.95
+            <a href="https://greensupply.com/products/wholesale-n95-face-mask-made-in-the-usa">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<table width="100%">
+<tbody>
+<tr>
+<td><strong> Number of Masks</strong></td>
+<td><strong>Cost</strong></td>
+<td><strong>Cost/Mask</strong></td>
+</tr>
+<tr>
+<td>1,000</td>
+<td>$2,549.95</td>
+<td>$2.55<br>
+</td>
+</tr>
+<tr>
+<td>5,000</td>
+<td>$11,499.95<br>
+</td>
+<td>$2.30<br>
+</td>
+</tr>
+<tr>
+<td>10,000</td>
+<td>$19,995.95</td>
+<td>$2.00</td>
+</tr>
+<tr>
+<td>&gt;10,000</td>
+<td>CALL US</td>
+<td>1-888-373-0001</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>DELIVERS IN 7 DAYS</strong></p>
+<p><meta charset="utf-8"><b></b>These N95 masks offer excellent protection with efficient filtering of at least 95% and are made in the USA. Featuring multi-layer protection, an ergonomic design, adjustable nose strip and secure behind the head straps, these N95s offer a secure seal while still allowing you to breath with ease.</p>
+<p><strong>Product Details: </strong></p>
+<ul>
+<li>Made in the USA</li>
+<li>Individually packaged</li>
+<li>3D contour design</li>
+<li>Filters &gt;95% of dust, haze, droplets, etc</li>
+<li>Multi-Layer Protection featuring melt-blown Nanowoven of moderate thickness for particle absorption, double layered electrostatic filter that is highly effective at filtering particles.</li>
+<li>Seals securely with adjustable nose strips and behind the head straps</li>
+<li>Breathable</li>
+<li>Ergonomic design</li>
+</ul>
+<p><strong>Product Information: </strong></p>
+<ul>
+<li>FFP2 masks meet EN-149 standard</li>
+<li>FDA Class 1 device listing</li>
+<li>
+<meta charset="utf-8">Box of 25</li>
+<li>
+<meta charset="utf-8">UV light sterilized</li>
+<li>Non-medical, for use by the general public</li>
+<li>Manufacturer: Shatkin FIRST<br>
+</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>Product Tests and Information</td>
+<td><a href="https://cdn.shopify.com/s/files/1/0319/3962/5092/files/Shatkin_First.pdf?v=1614037700">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+<p><meta charset="utf-8"><strong>IMPORTANT NOTES</strong><b>:<span> </span></b><br></p>
+<ul>
+<li>These and other respirators have not been approved for healthcare workers.<strong><span> </span> </strong>Please contact us directly for more information.</li>
+<li>All tests and certificates are provided by the manufacturer and have not been independently verified by Green Supply.</li>
+</ul>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>filtration</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>n95</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5858443034784</id>
+      <title>1,000</title>
+      <s:price currency="USD">2549.95</s:price>
+      <s:sku>USAN951000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5858443034784</id>
+      <title>5,000</title>
+      <s:price currency="USD">11499.95</s:price>
+      <s:sku>USAN955000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5858443034784</id>
+      <title>10,000</title>
+      <s:price currency="USD">19995.95</s:price>
+      <s:sku>USAN9510000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5750716924064</id>
+    <published>2021-01-25T11:23:18-07:00</published>
+    <updated>2021-01-25T11:23:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/n95-face-mask-made-in-the-usa"/>
+    <title>N95 Face Mask</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>Shatkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/N95-USA-Mask-2.png?v=1602700427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shatkin<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            14.95 - 64.95
+            <a href="https://greensupply.com/products/n95-face-mask-made-in-the-usa">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td><strong> Number of Masks</strong></td>
+<td><strong>Cost</strong></td>
+<td><strong>Cost/Mask</strong></td>
+</tr>
+<tr>
+<td>5<br>
+</td>
+<td>$14.95</td>
+<td>$3.00</td>
+</tr>
+<tr>
+<td>10</td>
+<td>$27.95</td>
+<td>$2.80</td>
+</tr>
+<tr>
+<td>25</td>
+<td>$64.95</td>
+<td>$2.60</td>
+</tr>
+<tr>
+<td>Larger Quantities</td>
+<td>Wholesale</td>
+<td><a href="https://greensupply.com/products/wholesale-n95-face-mask-made-in-the-usa">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Made in the USA, these N95 masks offer excellent protection with efficient filtering of at least 95%. Featuring multi-layer protection, an ergonomic design, adjustable nose strip and secure behind the head straps, these N95s offer a secure seal while still allowing you to breath with ease.</p>
+<p><strong>Product Details: </strong></p>
+<ul>
+<li>Made in the USA</li>
+<li>Individually packaged</li>
+<li>3D contour design</li>
+<li>Filters &gt;95% of dust, haze, droplets, etc</li>
+<li>Multi-Layer Protection featuring melt-blown Nanowoven of moderate thickness for particle absorption, double layered electrostatic filter that is highly effective at filtering particles.</li>
+<li>Seals securely with adjustable nose strips and behind the head straps</li>
+<li>Breathable</li>
+<li>Ergonomic design</li>
+</ul>
+<p><strong>Product Information: </strong></p>
+<ul>
+<li>FFP2 masks meet EN-149 standard</li>
+<li>FDA Class 1 device listing</li>
+<li>
+<meta charset="utf-8">Box of 25</li>
+<li>
+<meta charset="utf-8">UV light sterilized</li>
+<li>Non-medical, for use by the general public</li>
+<li>Manufacturer: Shatkin FIRST</li>
+</ul>
+<table width="100%" data-mce-selected="1">
+<tbody>
+<tr>
+<td data-mce-selected="1">Product Tests and Information</td>
+<td data-mce-selected="1"><a href="https://cdn.shopify.com/s/files/1/0319/3962/5092/files/Shatkin_First.pdf?v=1614037700">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+<p><meta charset="utf-8"><strong>IMPORTANT NOTES</strong><b>:<span> </span></b><br></p>
+<ul>
+<li>These and other respirators have not been approved for healthcare workers.<strong><span> </span> </strong>Please contact us directly for more information.</li>
+<li>All tests and certificates are provided by the manufacturer and have not been independently verified by Green Supply.</li>
+</ul>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>filtration</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>n95</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5750716924064</id>
+      <title>5</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>GSN95USA-5</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5750716924064</id>
+      <title>10</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>GSN95USA-10</s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5750716924064</id>
+      <title>25</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>GSN95USA-25</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5929409413280</id>
+    <published>2020-12-17T15:47:31-07:00</published>
+    <updated>2020-12-17T15:47:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/niosh-folded-n95-mask-40-pack-made-in-the-usa"/>
+    <title>NIOSH Folded N95 Mask - Made in the USA</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>ALG Health LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/folded-n95-2.png?v=1608149404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALG Health LLC<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            59.95 - 99.95
+            <a href="https://greensupply.com/products/niosh-folded-n95-mask-40-pack-made-in-the-usa">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td><strong> Number of Masks</strong></td>
+<td><strong>Cost</strong></td>
+<td><strong>Cost/Mask</strong></td>
+</tr>
+<tr>
+<td>20</td>
+<td>$59.95</td>
+<td>$3.00</td>
+</tr>
+<tr>
+<td>40</td>
+<td>$99.95</td>
+<td>$2.50</td>
+</tr>
+<tr>
+<td>BULK<br>
+</td>
+<td>WHOLESALE</td>
+<td><a href="https://greensupply.com/pages/contact-us" target="_blank" rel="noopener noreferrer">CLICK HERE</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Available in boxes of bags of 20 or boxes of 40, these NIOSH approved folded N95 masks are completely manufactured in Ohio, USA. With around the head straps and an adjustable nose clip, this N95 provides a snug, yet comfortable seal and features a lightweight design that can be worn for longer periods of time.</p>
+<p><strong>Product Details: </strong></p>
+<ul>
+<li>Made in the USA</li>
+<li>Filters &gt;95%</li>
+<li>Comfortable lightweight folded design</li>
+<li>Meets NIOSH inhalation procedure testing</li>
+<li>Adjustable nose clip for secure seal</li>
+</ul>
+<p><strong>Product Information: </strong></p>
+<ul>
+<li>NIOSH Approved<br>
+</li>
+<li>
+<meta charset="utf-8">Bags of 20, boxes of 40</li>
+<li>Material composition:</li>
+<ul>
+<li>Outer Layer: Spun bound cloth/non-woven fabric</li>
+<li>Filter: Electrostatic hot air cotton</li>
+<li>Lining: Melt blown non-woven fabric</li>
+<li>Inner Layer: Spun bound cloth/non-woven fabric</li>
+<li>Nose Clip: Plastic galvanized iron wire</li>
+<li>Nose Foam: Spandex filament sponge bar</li>
+<li>Headband: Nylon string</li>
+</ul>
+<li>Latex free</li>
+<li>
+<meta charset="utf-8">Certificates available on request<br>
+</li>
+<li>Manufacturer: ALG Health</li>
+<li>Model: PT-N95F-01</li>
+</ul>
+<p><meta charset="utf-8"><strong>IMPORTANT NOTES</strong><b>:<span> </span></b></p>
+<ul>
+<li>All tests and certificates are provided by the manufacturer and have not been independently verified by Green Supply.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>filtration</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>n95</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5929409413280</id>
+      <title>20 - Bag</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>PT-N95F-20</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5929409413280</id>
+      <title>40 - Box</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>PT-N95F-40</s:sku>
+      <s:grams>354</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5929510895776</id>
+    <published>2020-12-16T13:39:48-07:00</published>
+    <updated>2020-12-16T13:39:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/wholesale-niosh-cup-n95-mask-made-in-the-usa"/>
+    <title>Wholesale NIOSH Cup N95 Mask - Made in the USA</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>ALG Health LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/IMG_5394_20201103-220916_12d445e0-e451-462d-9d75-723976139f26.jpg?v=1608150936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALG Health LLC<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            949.95 - 14999.95
+            <a href="https://greensupply.com/products/wholesale-niosh-cup-n95-mask-made-in-the-usa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-selected="1">
+<tbody>
+<tr>
+<td data-mce-selected="1"><strong> Number of Masks</strong></td>
+<td data-mce-selected="1"><strong>Cost</strong></td>
+<td data-mce-selected="1"><strong>Cost/Mask</strong></td>
+</tr>
+<tr>
+<td data-mce-selected="1">500<br>
+</td>
+<td data-mce-selected="1">$949.95</td>
+<td data-mce-selected="1">$1.90<br>
+</td>
+</tr>
+<tr>
+<td data-mce-selected="1">1,000<br>
+</td>
+<td data-mce-selected="1">$1,849.95<br>
+</td>
+<td data-mce-selected="1">$1.85<br>
+</td>
+</tr>
+<tr>
+<td data-mce-selected="1">5,000</td>
+<td data-mce-selected="1">$8,749.95<br>
+</td>
+<td data-mce-selected="1">$1.75</td>
+</tr>
+<tr>
+<td data-mce-selected="1">10,000</td>
+<td data-mce-selected="1">$14,999.95</td>
+<td data-mce-selected="1">$1.50</td>
+</tr>
+<tr>
+<td data-mce-selected="1">&gt;10,000</td>
+<td data-mce-selected="1">CALL US</td>
+<td data-mce-selected="1">1-888-373-0001</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>DELIVERS IN 7 DAYS</strong></p>
+<p>Available in boxes of 25, these NIOSH approved cup N95 masks are completely manufactured in Ohio, USA. With around the head straps and an adjustable nose clip, this N95 provides a snug, yet comfortable seal. </p>
+<p><strong>Product Details: </strong></p>
+<ul>
+<li>Made in the USA</li>
+<li>Filters &gt;95%</li>
+<li>Comfortable cup design</li>
+<li>Pre formed, provides a secure fit<br>
+</li>
+<li>3 layers with an outer layer of spun bound cloth/non-woven fabric and a 2 layer melt-blown non-woven fabric filter</li>
+<li>Around the head straps</li>
+<li>Adjustable nose clip</li>
+</ul>
+<p><strong>Product Information: </strong></p>
+<ul>
+<li>NIOSH Approved<br>
+</li>
+<li>
+<meta charset="utf-8">Box of 25</li>
+<li>
+<meta charset="utf-8">Latex free<br>
+</li>
+<li>
+<meta charset="utf-8">Certificates available on request<br>
+</li>
+<li>Manufacturer: ALG Health</li>
+<li>Model: PT-N95C-02</li>
+</ul>
+<p><meta charset="utf-8"><strong>IMPORTANT NOTES</strong><b>:<span> </span></b></p>
+<ul>
+<li>All tests and certificates are provided by the manufacturer and have not been independently verified by Green Supply.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>filtration</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>n95</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5929510895776</id>
+      <title>500</title>
+      <s:price currency="USD">949.95</s:price>
+      <s:sku>ALGCUPN95-500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5929510895776</id>
+      <title>1000</title>
+      <s:price currency="USD">1849.95</s:price>
+      <s:sku>ALGCUPN95-100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5929510895776</id>
+      <title>5000</title>
+      <s:price currency="USD">8749.95</s:price>
+      <s:sku>ALGCUPN95-5000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5929510895776</id>
+      <title>10000</title>
+      <s:price currency="USD">14999.95</s:price>
+      <s:sku>ALGCUPN95-10000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5872405872800</id>
+    <published>2020-11-25T11:26:53-07:00</published>
+    <updated>2020-11-25T11:26:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/niosh-cup-n95-mask-made-in-the-usa"/>
+    <title>NIOSH Cup N95 Mask - 25 Pack - Made in the USA</title>
+    <s:type>N95 Mask</s:type>
+    <s:vendor>ALG Health LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/IMG_5394_20201103-220916.jpg?v=1606172449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALG Health LLC<br>
+        <strong>Type: </strong>N95 Mask<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-selected="1">
+<tbody>
+<tr>
+<td><strong> Number of Masks</strong></td>
+<td><strong>Cost</strong></td>
+<td><strong>Cost/Mask</strong></td>
+</tr>
+<tr>
+<td>25</td>
+<td>$49.95</td>
+<td>$2.00</td>
+</tr>
+<tr>
+<td>BULK<br>
+</td>
+<td>WHOLESALE</td>
+<td><a href="https://greensupply.com/products/wholesale-niosh-cup-n95-mask-made-in-the-usa">CLICK HERE</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Available in two sizes, standard and small, these NIOSH approved cup N95 masks are completely manufactured in Ohio, USA and come in boxes of 25. With around the head straps and an adjustable nose clip, this N95 provides a snug, yet comfortable seal. </p>
+<p><strong>Product Details: </strong></p>
+<ul>
+<li>Made in the USA</li>
+<li>Two sizes available, Small and Standard</li>
+<li>Filters &gt;95%</li>
+<li>Comfortable cup design</li>
+<li>Pre formed, provides a secure fit<br>
+</li>
+<li>3 layers with an outer layer of spun bound cloth/non-woven fabric and a 2 layer melt-blown non-woven fabric filter</li>
+<li>Around the head straps</li>
+<li>Adjustable nose clip</li>
+</ul>
+<p><strong>Product Information: </strong></p>
+<ul>
+<li>NIOSH Approved<br>
+</li>
+<li>
+<meta charset="utf-8">Box of 25</li>
+<li>
+<meta charset="utf-8">Latex free<br>
+</li>
+<li>
+<meta charset="utf-8">Certificates available on request<br>
+</li>
+<li>Manufacturer: ALG Health</li>
+<li>Model: PT-N95C-02 and <meta charset="utf-8"> <span data-mce-fragment="1">PT-N95CS-02</span>
+</li>
+</ul>
+<p><strong>Sizing Information: </strong></p>
+<ul>
+<li>Standard</li>
+<ul>
+<li>128MM tall, 55MM deep, 142MM wide</li>
+</ul>
+<li>Small</li>
+<ul>
+<li>
+<meta charset="utf-8"> <span>115MM tall, 50MM deep, 135MM </span><span>wide</span>
+</li>
+</ul>
+</ul>
+<p><meta charset="utf-8"><strong>IMPORTANT NOTES</strong><b>:<span> </span></b></p>
+<ul>
+<li>All tests and certificates are provided by the manufacturer and have not been independently verified by Green Supply.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>filtration</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>n95</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5872405872800</id>
+      <title>Standard</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>PT-N95C-02 - STANDARD</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://greensupply.com/products/5872405872800</id>
+      <title>Small</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>PT-N95CS-02 - SMALL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+</feed>

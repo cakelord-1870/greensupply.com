@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://greensupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://greensupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://greensupply.com/collections/health-and-wellness.atom"/>
+  <title>Greensupply.com</title>
+  <updated>2020-10-07T09:22:48-07:00</updated>
+  <author>
+    <name>Greensupply.com</name>
+  </author>
+  <entry>
+    <id>https://greensupply.com/products/5241280331936</id>
+    <published>2020-10-07T09:22:48-07:00</published>
+    <updated>2020-10-07T09:22:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/rechargeable-hair-clippers-set"/>
+    <title>Rechargeable Hair Clippers Set</title>
+    <s:type>Hair Clippers</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/reshargeable-hair-clippers-main.png?v=1590434317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>Hair Clippers<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b><i></i></b>Want the look of a professional hair cut without having to leave your home? This rechargeable hair clippers set includes the wireless unit and 4 guards between 3mm and 13mm. The high-carbon chromium steel blade is highly effective at cutting all hair types and the 46mm wide tooth cutter head catches more hair than other models. With 120 minutes of use on a single hour charge, the clippers can also be used wired if needed between charges. </p>
+<p><strong>Product Features</strong></p>
+<ul>
+<li>Includes the clippers, 4 guards, a cleaning brush, a protective cover, oil and the power adapter</li>
+<li>Guard sizes</li>
+<ul>
+<li>3mm</li>
+<li>6mm</li>
+<li>10mm</li>
+<li>13mm</li>
+</ul>
+<li>Rechargeable and wireless</li>
+<ul>
+<li>120 minutes of use on an hour charge</li>
+<li>Can also be used while charging</li>
+</ul>
+<li>High-carbon chromium steel blade</li>
+<li>46mm wide tooth cutter head</li>
+<li>Ergonomic design</li>
+</ul>
+<p><strong>Product Specifications</strong></p>
+<ul>
+<li>Color: White and black</li>
+<li>Material: ABS</li>
+<li>Size: 18.7 x 7cm</li>
+<li>Weight: 269g</li>
+<li>Voltage: 100-240V</li>
+<li>Power: 9W</li>
+<li>Battery: Lithium</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair clippers</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5241280331936</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>GSCLIPPERSSET</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5421317980320</id>
+    <published>2020-07-23T16:07:42-07:00</published>
+    <updated>2020-07-23T16:07:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/atomizer-sprayer"/>
+    <title>X1 Atomizer Sprayer</title>
+    <s:type>Atomizer</s:type>
+    <s:vendor>X1 Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/atomizer-sprayer-main.png?v=1595545672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>X1 Innovations<br>
+        <strong>Type: </strong>Atomizer<br>
+        <strong>Price: </strong>
+            1199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your home, work or other interior area safe and clean with this handheld atomizer sprayer. This unique and powerful sprayer can sanitize up to 3,600 square feet on a single tank, with the ability to cover 1,800 square feet per minute. With easily adjustable controls, you can adjust the distance of the spray, volume of the spray and the direction of the spray with the rotating swivel nozzle. Lightweight and built for mobility, this unit is compatible with all sprayable solutions and chemicals. </p>
+<p><strong>Product Details:</strong></p>
+<ul>
+<li>Tanks size: 4L (1.06 gal.)</li>
+<li>Discharge rate: 1.2L/min</li>
+<li>Spray distance: 10-36 ft.</li>
+<li>Particle size: 20-50 microns</li>
+<li>Weight (dry): 9.6 lbs.</li>
+<li>Usage: 300-400 hours continuous</li>
+<li>Voltage: 120V</li>
+<li>Dimensions: 25.7" x 7.8" x 12.2"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://greensupply.com/products/5421317980320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1199.95</s:price>
+      <s:sku>GSATOM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5396573028512</id>
+    <published>2020-07-16T13:33:47-07:00</published>
+    <updated>2020-07-16T13:33:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/safety-goggles"/>
+    <title>Anti-Fog Safety Goggles</title>
+    <s:type>Goggles</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/anti-fog-goggles-3.jpg?v=1595603706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>Goggles<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These safety goggles feature anti-fog lenses, an adjustable behind-the-head-strap and 4 valves that can be opened and closed. Can be worn alone or with a mask for added safety.</p>
+<p><strong>Product Details:</strong></p>
+<ul>
+<li>Anti fog lens</li>
+<li>Adjustable behind the head strap</li>
+<li>4 valves</li>
+<li>Materials: </li>
+<ul>
+<li>Lens: PC</li>
+<li>Frame: PVC</li>
+</ul>
+<li>Lens Color: Transparent</li>
+<li>Size: 195x90x55MM </li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mask</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5396573028512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>GSGOG</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5346981249184</id>
+    <published>2020-07-01T08:43:09-07:00</published>
+    <updated>2020-07-01T08:43:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/uv-sterilization-box-with-cpap-adapter"/>
+    <title>UV Sterilization Box with CPAP Adapter</title>
+    <s:type>UV Sanitizer</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/cpap-closed.png?v=1593622754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>UV Sanitizer<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This UV sterilization box features powerful UV and Ozone disinfection and includes a CPAP adapter and a built in plug for your tube. With a built interactive display, timer mode and a large capacity, this high-quality machine can sterilize anything from cell phones to baby bottles. The unit also has several modes and can sterilize utilizing UV, ozone or both between 3 and 10 mins. </p>
+<p><strong>Product Features:</strong></p>
+<ul>
+<li>UV and Ozone cleaning modes</li>
+<li>14 germicidal lamp beads</li>
+<li>Internal mirror reflection</li>
+<li>360-degree sterilization</li>
+<li>10,000 hour lifespan</li>
+<li>Interactive display</li>
+<li>Timer mode</li>
+<li>Includes power cord, CPAP adapter, User Manual, Tubing Filter Cotton x5</li>
+</ul>
+<p><strong>CPAP Compatibility List: </strong></p>
+<ul>
+<li>ResMed</li>
+<ul>
+<li>AirSense 10 Series</li>
+<li>AirCurve 10 Series</li>
+<li>AirStart 10 Series</li>
+<li>ResMed S9 Series</li>
+<li>ResMed S8 Series</li>
+<li>AirMini CPAP</li>
+</ul>
+<li>Philips Respironics</li>
+<ul>
+<li>DreamStation</li>
+<li>DreamStation Pro</li>
+<li>System One REMStar</li>
+<li>System ONE REMStar Pro</li>
+<li>M Series</li>
+<li>DreamStation Go</li>
+</ul>
+<li>Fisher &amp; Payel</li>
+<ul>
+<li>ICON Series</li>
+</ul>
+<li>Transcend</li>
+<ul>
+<li>MiniCPAP</li>
+</ul>
+<li>DeVilbliss</li>
+<ul>
+<li>IntelliPAP</li>
+</ul>
+<li>Human Design Medical</li>
+<ul>
+<li>Z1/Z2 Travel CPAP</li>
+</ul>
+<li>BMC</li>
+<ul>
+<li>RESmart</li>
+</ul>
+</ul>
+<p><strong>Product Details:</strong></p>
+<ul>
+<li>Size: 230x230x180mm</li>
+<li>Weight: 2.5KG</li>
+<li>Power consumption: 5W</li>
+<li>Certifications: FCC, CE, SGS, RHOS, FDA</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>uv</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5346981249184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>GSCPAP</s:sku>
+      <s:grams>2467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5304736612512</id>
+    <published>2020-06-18T07:00:31-07:00</published>
+    <updated>2020-06-18T07:00:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/cordless-hair-clippers-set"/>
+    <title>Wireless Electric Hair Clippers Set</title>
+    <s:type>Hair Clippers</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/front.png?v=1592490215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>Hair Clippers<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b><i></i></b>This wireless hair clippers set is a great way to make sure you stay groomed from the comfort of your own home. Featuring a built in LCD screen, a stainless steel blade, 4 different guards of various lengths, the ability for operate both wireless and plugged in and a fast 4 hour charging time, this set has everything that you need to get started.</p>
+<p><strong>Product Features</strong></p>
+<ul>
+<li>Adjustable stainless steel blade with an extra sharp edge<br><strong></strong>
+</li>
+<li>LCD display that shows time left available on current charge</li>
+<li>2 hour usage on a 3 hour charge</li>
+<li>Includes 4 guards (13cm, 10 cm, 6cm and 3cm), comb, cleaning brush and charging adapter</li>
+</ul>
+<p><strong>Product Specifications</strong></p>
+<ul>
+<li>
+<strong></strong>Material: ABS</li>
+<li>Power: 5W<br>
+</li>
+<li>Charging Time: 3 hours</li>
+<li>Usage time on charge: 2 hours</li>
+<li>Non-washable</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair clippers</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5304736612512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>GSGLDCLIP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5282349252768</id>
+    <published>2020-06-10T08:34:57-07:00</published>
+    <updated>2020-06-10T08:34:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/infrared-forehead-thermometer"/>
+    <title>Infrared Forehead Thermometer</title>
+    <s:type>Thermometer</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/thermometer.png?v=1591807853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>Thermometer<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This no touch infrared forehead thermometer measures instantly from 3-5cm within 1 second of use. Featuring a high-temperature alarm, a digital backlight display that changes color based on the level of fever and the ability to change between Fahrenheit and Celsius quickly, this digital no touch infrared thermometer is an important medical tool to keep on hand and ready for use. Great for office use or a general business setting.</p>
+<p><strong>No Touch Thermometer Features: </strong></p>
+<ul>
+<li>1 second measurement from 3-5cm distance</li>
+<li>Single button use</li>
+<li>No touch readings</li>
+<li>High accuracy</li>
+<li>Ability to record up to 16 measurements</li>
+<li>IR Laser technology </li>
+<li>Fahrenheit and Celsius options</li>
+<li>15 second automatic shutdown</li>
+<li>Requires AAA batteries (not included)</li>
+</ul>
+<p><strong>Product info: </strong></p>
+<ul>
+<li><a href="https://cdn.shopify.com/s/files/1/0319/3962/5092/files/Green_Supply_thermometer_settings.pdf?v=1597102305">Link to document on how to change between Fahrenheit and Celsius.</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://greensupply.com/products/5282349252768</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>GSIFTHERMOMETER</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/5241246253216</id>
+    <published>2020-05-25T10:24:39-07:00</published>
+    <updated>2020-05-25T10:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/ceramic-cordless-hair-clippers"/>
+    <title>Ceramic Cordless Hair Clippers</title>
+    <s:type>Hair Clippers</s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/ceramic-clippers-front-main.png?v=1590433180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong>Hair Clippers<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><b><i></i></b>Keep your hair looking neat and trim from the comfort of your home with these two-speed ceramic blade cordless hair clippers. Fully rechargeable and wireless, these clippers feature a super-simple one button operation, adjustable guard, low noise when in use and can last up to three months on a single charge.</p>
+<p><strong>Product Features</strong></p>
+<ul>
+<li>
+<strong></strong>Nano ceramic cutter head is 1.6 times stronger than standard stainless steel<br>
+</li>
+<li>Adjustable sliding guard that locks to lengths between 0.7 - 21mm</li>
+<li>Two speed control</li>
+<li>Single button operation</li>
+<li>Low noise</li>
+<li>Wireless and rechargeable</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>Product Specifications</strong></p>
+<ul>
+<li>
+<strong></strong>Materials: Ceramic, ABS<br>
+</li>
+<li>Voltage: DC 5V</li>
+<li>Power: 5W</li>
+<li>Package weight: 0.46 lbs</li>
+<li>Package Size (L x W x H): 1.77 x 1.5 x 6.61 inches</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair clippers</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/5241246253216</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>GSCERAMICCLIPPERS</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://greensupply.com/products/4934755647620</id>
+    <published>2020-05-13T14:16:10-07:00</published>
+    <updated>2020-05-13T14:16:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://greensupply.com/products/uv-light-sanitizer-box"/>
+    <title>Large UVC Light Sanitizer Box</title>
+    <s:type></s:type>
+    <s:vendor>Greensupply.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0319/3962/5092/products/20200402151625.jpg?v=1589406618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greensupply.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This UV-C light box kills 99% of bacteria effectively utilizing a 360 degree UVC light and ozone disinfection process. Featuring a large internal area that can be used for multiple items including phones, keys, watches, CPAP machines and toothbrushes, simply press the external button and in 5 minutes your items will be sterilized. <br></p>
+<p> </p>
+<p><strong>Product Features: </strong><br></p>
+<ul>
+<li>Effectively kills 99% of bacteria</li>
+<li>360 degree UVC light and ozone disinfection</li>
+<li>Easy 5-minute sterilization program with one push button</li>
+<li>Easy open magnetic latch</li>
+<li>USB cable power and adapter</li>
+<li>Attractive faux leather exterior</li>
+</ul>
+<p> </p>
+<video width="320" height="240" controls="controls">
+  <source src="https://cdn.shopify.com/s/files/1/0319/3962/5092/files/UV-Box-Video.mov?v=1590168017" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</source></video> <br> <br>
+<p><strong>Product Instructions: </strong></p>
+<ol>
+<li>
+<strong></strong>Open the box, connect the USB cable to the power adapter and plug in. The power indictor light will turn red.<br>
+</li>
+<li>Open the lid, put your items in the box and close the lid.</li>
+<li>Press the on/off button. The indicator light will turn green. This means the sterilization process is working. </li>
+<li>Wait 5 minutes. The process is complete when the timer is up and the light is red.</li>
+</ol>
+<p> </p>
+<p><strong>Safety Instructions: </strong></p>
+<ol>
+<li>
+<strong></strong>Read the instructions carefully before use.<br>
+</li>
+<li>Use the included power adapter to plug into the wall. </li>
+<li>UV light can be harmful and burn skin and eyes. Keep the top closed at all times the unit is in use to avoid contact.</li>
+<li>Keep away from children at all times. </li>
+<li>Do not place oxidized items into the unit.</li>
+<li>Keep a safe distance from the box when it is working as to not inhale any ozone (there may be a slight odor when using).</li>
+<li>Colorful items may become discolored under UV light.</li>
+<li>Do not place wet items or liquid inside the sterilizer. </li>
+<li>Turn box off and unplug before cleaning. To clean, wipe with a soft cloth. </li>
+<li>If the unit is not working properly, do not attempt to repair. </li>
+<li>Unplug after each use.</li>
+</ol>
+<p> </p>
+<p><strong>Product Specifications: </strong></p>
+<ul>
+<li>Made in China</li>
+<li>
+<strong></strong>Input Voltage: DC 4.5V-5.5V<br>
+</li>
+<li>Power rating: 5W</li>
+<li>Outer Size: 260x150x100 mm</li>
+<li>Inner Size: 240x102x69 mm</li>
+<li>Display: LED status (Working: Green, Stopped: Red)</li>
+<li>Sterilization Mode: UVC (185nm) and Ozone</li>
+<li>Protection: When opened, the sterilization process will stop and UV light will turn off. </li>
+<li>Working Temperature: 0 degrees to 50 degrees Celsius</li>
+<li>Operating Humidity: 20% to 90%</li>
+<li>Sterilization Time: 5 Minutes</li>
+<li>Package Size: 290x180x115 mm</li>
+<li>Weight: 1.2 KGS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>uv</s:tag>
+    <s:variant>
+      <id>https://greensupply.com/products/4934755647620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>GSUV</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+</feed>
